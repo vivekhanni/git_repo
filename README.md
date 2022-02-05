@@ -6,3 +6,4 @@ change2 in remote repository
 change3
 change4
 change5
+new changes to check pull
